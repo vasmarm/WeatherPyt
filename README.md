@@ -4,10 +4,11 @@ Creating a Python script to visualize the weather of 500+ cities across the worl
 
 Objective is to build a series of scatter plots to showcase the following relationships:
 
-Maximum Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+- Maximum Temperature (F) vs. Latitude
+- Humidity (%) vs. Latitude
+- Cloudiness (%) vs. Latitude
+- Wind Speed (mph) vs. Latitude
+
 Final notebook :
 
 Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
